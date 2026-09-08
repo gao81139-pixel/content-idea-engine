@@ -1,0 +1,7 @@
+interface:
+  display_name: "内容灵感工程"
+  short_description: "先完成十问，再用组合、反转与迁移方法批量生成并筛选内容创意"
+  default_prompt: "使用 $content-idea-engine 为我的账号系统生成可拍摄的内容创意。"
+
+policy:
+  allow_implicit_invocation: true
